@@ -1,0 +1,9 @@
+#Task 1: Perform Basic Mathematical Operations
+A = input("Enter first Number A: ")
+A = int(A)
+B = input("Enter second Number B: ")
+B=int(B)
+print('Addition: ', (A+B))
+print('Subtraction: ', (A-B))
+print('Division: ', (A/B))
+print('Multiplication: ', (A*B))
